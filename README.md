@@ -15,7 +15,7 @@ Download and install Apache NetBeans IDE 12.0 (an integrated development environ
 
 
 Unzip the Project Files:
-Extract the BMIS2003 Blockchain Application Development_AppleBox_RSD3_Group2.zip to the xampp/htdocs folder on your computer.
+Extract the BlockChainAssignment.zip to the xampp/htdocs folder on your computer.
 The full path should look something like C:\xampp\htdocs\BlockChainAssignment.
 
 
