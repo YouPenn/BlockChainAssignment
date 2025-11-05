@@ -33,10 +33,10 @@ This should open the user homepage in your default web browser.
 Admin Login:
 To log in as an admin, use the following credentials:
 
-Admin ID: A001
-Admin Password: adminpassword
+Admin ID: A001 |
+Admin Password: adminpassword |
 
-Admin ID: A002
-Admin Password: adminpassword
+Admin ID: A002 |
+Admin Password: adminpassword |
 
 *You can only edit and delete the products that you have added. You cannot edit or delete products that are owned by other users.
