@@ -16,7 +16,7 @@ Download and install Apache NetBeans IDE 12.0 (an integrated development environ
 
 Unzip the Project Files:
 Create a folder name like BlockChainAssignment in xampp/htdocs.
-Extract the BlockChain.zip to the xampp/htdocs folder.
+Extract the BlockChain.zip to the xampp/htdocs/BlockChainAssignment folder.
 The full path should look something like C:\xampp\htdocs\BlockChainAssignment.
 
 
